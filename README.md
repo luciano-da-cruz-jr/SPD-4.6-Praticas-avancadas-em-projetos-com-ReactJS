@@ -21,4 +21,3 @@ npm run start
 
 <h4 align="center"><a href="https://github.com/luciano-da-cruz-jr/luciano-da-cruz-jr/blob/main/Spread-Full-Stack-Menu.md">Voltar ao Menu Bootcamp Spread Full Stack (Back to Bootcamp Spread Full Stack Menu)</a></h4>
 
-Repositório contendo alguns exercícios práticos avançados relacionados a biblioteca ReactJS.
